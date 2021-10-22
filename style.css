@@ -3,7 +3,7 @@ body{
 }
 .bgimage {
   position: absolute;
-  background-image: url(./images/img22.png);
+  background-image: url(/images/img22.png);
   background-repeat: no-repeat;
   background-size: cover;
   height:450px;
