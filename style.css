@@ -3,7 +3,7 @@ body{
 }
 .bgimage {
   position: absolute;
-  background-image: url(img22.png);
+  background-image: url(/Wisdom-Church/style/images/img22.png);
   background-repeat: no-repeat;
   background-size: cover;
   height:450px;
